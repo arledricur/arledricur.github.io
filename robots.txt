@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arledricur.github.io/sitemap
+Sitemap: https://arledricur.github.io/app/sitemap
+Sitemap: https://arledricur.github.io/assets/sitemap
+Sitemap: https://arledricur.github.io/css/sitemap
+Sitemap: https://arledricur.github.io/includes/sitemap
+Sitemap: https://arledricur.github.io/item/sitemap
+Sitemap: https://arledricur.github.io/src/sitemap
